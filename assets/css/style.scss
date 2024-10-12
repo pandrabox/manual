@@ -2,9 +2,6 @@
 ---
 
 @import 'jekyll-theme-cayman';
-header {
-    background: black;
-}
-body {
-    background-color: red;
+a.btn {
+    display: none; // "View on GitHub" ボタンを非表示にする
   }
