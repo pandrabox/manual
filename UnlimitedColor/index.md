@@ -17,9 +17,9 @@
 
 
 ## 概要
-UnlimitedColorはVRCにおいてliltoonを使ったオブジェクトのVR内色調変更を提供する非破壊のツールです。
-基本的にNDMF, ModularAvatarで制作していますが、VRCFuryの併用が必要な場合があります。
-パラメータを非常に多く使うため、セットアップ方法によってはアバターがアップロードできないことがあります。
+[lilToon](https://lilxyzw.github.io/lilToon/)を使ったオブジェクトをVRC内で色変更できるようにする非破壊ツールです
+
+
 
 ## 使用方法
 
