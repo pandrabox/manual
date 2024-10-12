@@ -63,7 +63,7 @@
 ![alt text](res/img/image-16.png)
 
 - 読み取り専用の項目です
-- UnlimitedColorが使用しているBit数が書いてります
+- UnlimitedColorが使用しているBit数が書いてあります
 - アップロードするためにはアバター全体で使用Bitを256以下にする必要があります
 
 
