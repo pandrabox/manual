@@ -1,5 +1,5 @@
 # PandraBox/UnlimitedColor
-<img src=res/img/logo.png style=width:80%>
+ ![alt text](res/img/logo.png)
 
 - [PandraBox/UnlimitedColor](#pandraboxunlimitedcolor)
   - [概要](#概要)
