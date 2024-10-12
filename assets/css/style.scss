@@ -4,7 +4,10 @@
 @import 'jekyll-theme-cayman';
 a.btn {
     display: none; // "View on GitHub" ボタンを非表示にする
-  }
+}
 .page-header {
 	background-image: linear-gradient(120deg, #39a7f4, #f4ad39);
+}
+footer.site-footer{
+  display: none;
 }
