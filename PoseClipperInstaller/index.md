@@ -70,7 +70,7 @@ CHILD WITCH様の[PoseClipper](https://booth.pm/ja/items/6181080)を非破壊的
 
 ## ライセンス
 
-- Booth展示・本サイト掲示用アイコン用の画像には、MingCute様の画像素材を使用させて頂いています。[Apache2.0ライセンス](https://github.com/Richard9394/MingCute?tab=Apache-2.0-1-ov-file#readme)の元で提供されています
+- Booth展示・本サイト掲示用ロゴ画像には、MingCute様の画像素材を使用させて頂いています。[Apache2.0ライセンス](https://github.com/Richard9394/MingCute?tab=Apache-2.0-1-ov-file#readme)の元で提供されています。ロゴとして使用するにあたり、色の変更・重ね表示の加工を行っています。
 - PoseClipperInstallerのライセンスは[MITライセンス](https://opensource.org/license/mit)で提供されています。ソースコードは全てBooth配布物に含まれています
 - PoseClipperのライセンスは[公式Booth](https://booth.pm/ja/items/6181080)を御覧ください
 
