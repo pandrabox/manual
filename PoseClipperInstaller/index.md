@@ -20,7 +20,7 @@ CHILD WITCH様の[PoseClipper](https://booth.pm/ja/items/6181080)を非破壊的
 - 使用したいプロジェクトをバックアップして下さい
 - プロジェクトを開いて下さい
 - もしModularAvatar未導入/わからない場合は同梱のDependics/ModularAvatarInstaller.unitypackageをインポートして下さい
-- [PoseClipper](https://booth.pm/ja/items/6181080), PoseClipperInstallerをインポートして下さい
+- [PoseClipper](https://booth.pm/ja/items/6181080), [PoseClipperInstaller](https://pandrabox.booth.pm/items/6202962)をインポートして下さい
 - アバターの下にPoseClipperのプレハブを入れて下さい
 
 ![alt text](res/img/image-4.png)
