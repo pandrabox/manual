@@ -12,7 +12,7 @@
   - [サポート窓口](#サポート窓口)
 
 ## 概要
-[DressingTable](DressingTable)を[フラット](https://booth.pm/ja/items/3562180)向けにセットアップしたものです。詳細仕様については[DressingTable](DressingTable)の説明を併せてご覧ください
+[DressingTable](../DressingTable)を[フラット](https://booth.pm/ja/items/3562180)向けにセットアップしたものです。詳細仕様については[DressingTable](../DressingTable)の説明を併せてご覧ください
 
 ## 導入方法
 
