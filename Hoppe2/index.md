@@ -50,8 +50,8 @@
 
 ## 参考資料
 
-- [DressingTable](/DressingTable) … 本ギミックはこのギミックをフラット族等のためにセットアップしたものです。詳細はこちらのページをご覧ください
-- [HowToMakeTex](/DressingTable/HowToMakeTex) … テクスチャを自作する方法の例について記述しています
+- [DressingTable](/manual/DressingTable) … 本ギミックはこのギミックをフラット族等のためにセットアップしたものです。詳細はこちらのページをご覧ください
+- [HowToMakeTex](/manual/DressingTable/HowToMakeTex) … テクスチャを自作する方法の例について記述しています
   
 ## アンインストール
 
