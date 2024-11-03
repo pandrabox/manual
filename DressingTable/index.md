@@ -1,4 +1,5 @@
 # PandraBox/DressingTable
+
 ![alt text](res/img/image.png)
 
 
@@ -11,7 +12,9 @@
   - [サポート窓口](#サポート窓口)
 
 ## 概要
-頬紅等のちょっとしたアクセントを非破壊で導入できるようにするツールです。Contact連携して距離フェード風の表現ができます
+
+- 頬紅等のちょっとしたアクセントを非破壊で導入できるようにするツールです。Contact連携して距離フェード風の表現ができます
+- セットアップ例として[Hoppe2](Hoppe2)があります
 
 ## 導入方法
 
@@ -33,6 +36,7 @@
 - Config
   - Tex
     - このアセットで追加するテクスチャを指定します。「Path」で指定したオブジェクトと同じUVを使って、半透明のテクスチャを指定してください
+    - [HowToMakeTex](テクスチャの作成方法)をまとめた資料があります。参考にどうぞ
   - Blend Mode
     - テクスチャの合成方法を指定します。後述のSample機能を使いながら試してください
   - Path
@@ -78,6 +82,7 @@
 - [MITライセンス](https://github.com/pandrabox/DressingTable?tab=MIT-1-ov-file)によります
 
 ## サポート窓口
+
 - 不具合報告・不明点・感想などお気軽にご連絡下さい。お急ぎの際は複数窓口への連絡をお願いいたします
   - [PandraBox問い合わせフォーム](https://forms.gle/x5TvUhqvWwBjQZcn6)
   - [Booth問い合わせフォーム](https://pandrabox.booth.pm/)
