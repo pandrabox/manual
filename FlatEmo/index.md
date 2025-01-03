@@ -1,11 +1,10 @@
-<center> 
-<img src=res/img/FlatEmoLogo.png height=300>
-</center>
+![alt text](res/img/FlatEmoLogo.png)
 
 # FlatEmo
 
 本アセットは[らすちんワークス](https://aoikarasu.booth.pm/)製アバターフラット([オリジナル](https://booth.pm/ja/items/3562180),[2nd](https://booth.pm/ja/items/5780006))向け[^フラット向け]のエモートです
 プレハブを入れるだけで簡単に使えます
+
 [^フラット向け]:「フラット向け」とはフラットのために作成したが他のアバター（フラット族や、らすちんワークス販売のその他アバター等）で使用可能な可能性が高いことを意味します。ただし、人間アバターなど極端に体形が違う場合には不具合が発生する可能性が高いです。
 
 
