@@ -34,7 +34,8 @@
     - Rendererのオブジェクト名と完全一致する名称.png…各衣装のトグルに使います
     - all.png…メニューフォルダの表示に使います
 　- 大体こうなる
-  　- ![alt text](res/img/image-1.png)
+![alt text](res/img/image-1.png)
+
 - fbxをアバター直下に入れてください　この時見た目上きちんと着れている必要があります
 - Unity上部メニューよりPan/ClothMakerを実行し、次の設定をして下さい
 ![alt text](res/img/image-2.png)
