@@ -58,6 +58,7 @@
             - 1 … ExParameterがMA Parametersで定義され、スイッチング方式がオブジェクトのActive切り替え（衣装用）
             - 2 … ExParameterがExpressionParametersで定義され、スイッチング方式がオブジェクトのActive切り替え（一般的なアバター用）
             - 3 … ExParameterがExpressionParametersで定義され、スイッチング方式がSkinnedMeshRendererのActive切り替え（一部のアバター用）
+            - 4 … ExParameterがMA Parametersで定義され、スイッチング方式がオブジェクトのActive切り替え（衣装用）　**0が衣装有効で1が衣装無効の場合**
         - 対象オブジェクトパス
           - デフォルト状態を切り替えるオブジェクトのパスを指定します
           - 最低1つ必要です。数は自由に増やすことができます
